@@ -9016,7 +9016,7 @@
     "badge_type": "PROGRAMA DE ESPECIALIZACION",
     "cover": null,
     "cover_local_path": "generated_covers\\2E130910.webp",
-    "referer": "https://www.youtube.com",
+    "referer": "https://www.youtube.com/",
     "modules": [
       {
         "title": "Playlist",
@@ -9044,4 +9044,5 @@
       }
     ]
   }
+
 ]
